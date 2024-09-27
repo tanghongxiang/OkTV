@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bg_radius6_stroke2_ff9328" android:state_selected="true" />
+    <item android:drawable="@drawable/bg_radius6_stroke2_trans" android:state_selected="false" />
+</selector>

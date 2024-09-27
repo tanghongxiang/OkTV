@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RadioButtonStyle" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/color_999999</item>
+        <item name="colorControlActivated">@color/color_FF9328</item>
+    </style>
+    <style name="NoBoldButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:textStyle">normal</item>
+    </style>
+    <!--  无阴影按钮样式  -->
+    <style name="Button_List_Style" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:minWidth">0dp</item>
+        <item name="android:minHeight">0dp</item>
+    </style>
+    <!--  Activity从下面弹出时的动画  -->
+    <style name="WindowAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_from_bottom</item>
+    </style>
+</resources>

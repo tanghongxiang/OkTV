@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path
+        name="download_files"
+        path="." />
+    <external-path
+        name="download_files"
+        path="." />
+    <external-path
+        name="external_files"
+        path="." />
+    <external-path
+        name="files_root"
+        path="Android/data/com.art.amber.art_amber_app/" />
+</paths>

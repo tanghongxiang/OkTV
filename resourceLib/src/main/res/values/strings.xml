@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OkTV</string>
+    <string name="request_permission_content_text">为了让您的帐号在使用软件时更加安全便捷的操作账户登录、编辑个人信息及发布动态信息，OkTV需要申请相机、存储权限。</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="nfc_read_error">读取失败</string>
+    <string name="nfc_not_found_anyone">未识别到卡片</string>
+    <string name="nfc_not_a_mifare_card">不是Mifare卡</string>
+    <string name="cant_support_nfc">设备不支持NFC功能!</string>
+    <string name="nfc_disenable_msg">NFC功能未开启！</string>
+    <string name="im_chat_msg_now">刚刚</string>
+    <string name="im_chat_msg_yesterday">昨天</string>
+    <string name="im_chat_msg_monday">星期一</string>
+    <string name="im_chat_msg_tuesday">星期二</string>
+    <string name="im_chat_msg_wednesday">星期三</string>
+    <string name="im_chat_msg_thursday">星期四</string>
+    <string name="im_chat_msg_friday">星期五</string>
+    <string name="im_chat_msg_saturday">星期六</string>
+    <string name="im_chat_msg_sunday">星期日</string>
+    <string name="im_chat_msg_days_ago">天前</string>
+    <string name="im_chat_msg_minutes_ago">分钟前</string>
+    <string name="im_chat_msg_hours_ago">分钟前</string>
+</resources>
